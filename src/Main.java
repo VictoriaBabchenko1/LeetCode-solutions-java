@@ -19,7 +19,17 @@ public class Main {
         System.out.println(new PowerOfFour().isPowerOfFour(n2));
         System.out.println(new PowerOfFour().isPowerOfFour(n3));
     }
+
+    public static void PowerOfThreeTest(){
+        int n1 = 27;
+        int n2 = 0;
+        int n3 = -1;
+
+        System.out.println(new PowerOfThree().isPowerOfThree(n1));
+        System.out.println(new PowerOfThree().isPowerOfThree(n2));
+        System.out.println(new PowerOfThree().isPowerOfThree(n3));
+    }
     public static void main(String[] args) {
-        PowerOfFourTest();
+        PowerOfThreeTest();
     }
 }
