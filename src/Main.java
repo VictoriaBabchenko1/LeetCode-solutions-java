@@ -39,7 +39,21 @@ public class Main {
         System.out.println(new PowerOfTwo().isPowerOfTwo(n2));
         System.out.println(new PowerOfTwo().isPowerOfTwo(n3));
     }
+
+    public static void RemoveDuplicatesFromSortedListTest(){
+        ListNode node1 = new ListNode(1);
+        ListNode node2 = new ListNode(1);
+        ListNode node3 = new ListNode(2);
+        node1.next = node2;
+        node2.next = node3;
+
+        ListNode current = new RemoveDuplicatesFromSortedList().deleteDuplicates(node1);
+        while (current != null) {
+            System.out.println(current.val);
+            current = current.next;
+        }
+    }
     public static void main(String[] args) {
-        PowerOfTwoTest();
+        RemoveDuplicatesFromSortedListTest();
     }
 }
