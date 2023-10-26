@@ -1,3 +1,5 @@
+import java.io.Console;
+
 public class Main {
     public static void LongestCommonPrefixTest(){
         String[] strs = {"flower", "flow", "flight"};
@@ -44,8 +46,12 @@ public class Main {
         ListNode node1 = new ListNode(1);
         ListNode node2 = new ListNode(1);
         ListNode node3 = new ListNode(2);
+        ListNode node4 = new ListNode(3);
+        ListNode node5 = new ListNode(3);
         node1.next = node2;
         node2.next = node3;
+        node3.next = node4;
+        node4.next = node5;
 
         ListNode current = new RemoveDuplicatesFromSortedList().deleteDuplicates(node1);
         while (current != null) {
@@ -53,7 +59,16 @@ public class Main {
             current = current.next;
         }
     }
+
+    public static void SingleNumberTest(){
+        int[] nums1 = {2, 2, 1};
+        int[] nums2 = {4, 1, 2, 1, 2};
+        int[] nums3 = {1};
+        System.out.println(new SingleNumber().singleNumber(nums1));
+        System.out.println(new SingleNumber().singleNumber(nums2));
+        System.out.println(new SingleNumber().singleNumber(nums3));
+    }
     public static void main(String[] args) {
-        RemoveDuplicatesFromSortedListTest();
+        SingleNumberTest();
     }
 }
