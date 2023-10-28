@@ -68,7 +68,12 @@ public class Main {
         System.out.println(new SingleNumber().singleNumber(nums2));
         System.out.println(new SingleNumber().singleNumber(nums3));
     }
+
+    public static void moveZerosTest(){
+        int[] nums = {0, 1, 0, 3, 12};
+        new MoveZeroes().moveZeroes(nums);
+    }
     public static void main(String[] args) {
-        SingleNumberTest();
+        moveZerosTest();
     }
 }
