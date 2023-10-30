@@ -1,4 +1,6 @@
 import java.io.Console;
+import java.lang.reflect.Array;
+import java.util.Arrays;
 
 public class Main {
     public static void LongestCommonPrefixTest(){
@@ -73,7 +75,18 @@ public class Main {
         int[] nums = {0, 1, 0, 3, 12};
         new MoveZeroes().moveZeroes(nums);
     }
+
+    public  static void plusOneTest(){
+        int[] nums = {4, 4, 2, 2};
+        int[] nums2 = {9};
+        int[] nums3 = {4, 4, 9, 9};
+        int[] nums4 = {9, 9};
+        System.out.println(Arrays.toString(new PlusOne().plusOne(nums)));
+        System.out.println(Arrays.toString(new PlusOne().plusOne(nums2)));
+        System.out.println(Arrays.toString(new PlusOne().plusOne(nums3)));
+        System.out.println(Arrays.toString(new PlusOne().plusOne(nums4)));
+    }
     public static void main(String[] args) {
-        moveZerosTest();
+        plusOneTest();
     }
 }
