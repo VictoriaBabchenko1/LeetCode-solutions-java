@@ -87,5 +87,7 @@ public class Main {
         System.out.println(Arrays.toString(new PlusOne().plusOne(nums4)));
     }
     public static void main(String[] args) {
+        System.out.println(new AddDigits().addDigits(10));
+        System.out.println(10 % 10);
     }
 }
