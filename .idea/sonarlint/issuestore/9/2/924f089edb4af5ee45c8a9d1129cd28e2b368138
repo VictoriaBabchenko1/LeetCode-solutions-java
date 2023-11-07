@@ -1,0 +1,35 @@
+
+7
+java:S1220""Move this file to a named package.8ƒÏªÏ¹1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş€¶î8’ÏªÏ¹1
+L	java:S106"+Replace this use of System.out by a logger.(çƒ³÷úÿÿÿÿ8“ÏªÏ¹1
+G	java:S106"+Replace this use of System.out by a logger.(’È­›8“ÏªÏ¹1
+G	java:S106"+Replace this use of System.out by a logger.(€ÒÜ8”ÏªÏ¹1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÿúÖıÿÿÿÿ8”ÏªÏ¹1
+G	java:S106"+Replace this use of System.out by a logger.(ÕÒÅ8•ÏªÏ¹1
+L	java:S106"+Replace this use of System.out by a logger.( Ô©…üÿÿÿÿ8•ÏªÏ¹1
+G	java:S106"+Replace this use of System.out by a logger.(°ıÚä8•ÏªÏ¹1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÍÙ¤ÿÿÿÿÿ8–ÏªÏ¹1
+G	java:S106 "+Replace this use of System.out by a logger.(š»·¨8–ÏªÏ¹1
+L	java:S106!"+Replace this use of System.out by a logger.(ÁÔÀúÿÿÿÿ8—ÏªÏ¹1
+G	java:S106""+Replace this use of System.out by a logger.(É‚†œ8—ÏªÏ¹1
+o	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¸¯Úıÿÿÿÿ8—ÏªÏ¹1
+G	java:S106*"+Replace this use of System.out by a logger.(Œó°8˜ÏªÏ¹1
+G	java:S106+"+Replace this use of System.out by a logger.(¹¤Ç½8˜ÏªÏ¹1
+L	java:S106,"+Replace this use of System.out by a logger.(…Í‡òøÿÿÿÿ8™ÏªÏ¹1
+j	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾–òÚ8™ÏªÏ¹1
+L	java:S106<"+Replace this use of System.out by a logger.(õØÛüÿÿÿÿ8šÏªÏ¹1
+o	java:S100A"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÚ˜–üÿÿÿÿ8šÏªÏ¹1
+L	java:S106E"+Replace this use of System.out by a logger.(”Ëü¨şÿÿÿÿ8›ÏªÏ¹1
+G	java:S106F"+Replace this use of System.out by a logger.(ÓŠƒØ8›ÏªÏ¹1
+L	java:S106G"+Replace this use of System.out by a logger.(”Š«×ùÿÿÿÿ8œÏªÏ¹1
+G	java:S106T"+Replace this use of System.out by a logger.(šÅ²æ8ÏªÏ¹1
+L	java:S106U"+Replace this use of System.out by a logger.(…™Ô–şÿÿÿÿ8ÏªÏ¹1
+L	java:S106V"+Replace this use of System.out by a logger.(œşøúÿÿÿÿ8ÏªÏ¹1
+G	java:S106W"+Replace this use of System.out by a logger.(«ûä‹8ÏªÏ¹1
+G	java:S106Z"+Replace this use of System.out by a logger.(»ı½è8˜Ó¿Ï¹1
+L	java:S106["+Replace this use of System.out by a logger.(÷ÛùÜúÿÿÿÿ8Œ½ÜÏ¹1
+l
+java:S1764["JCorrect one of the identical sub-expressions on both sides of operator "%"(÷ÛùÜúÿÿÿÿ8½ÜÏ¹1
+N
+java:S1128",Remove this unused import 'java.io.Console'.(æÅªıÿÿÿÿ8Ô¡ÀÏ¹1
