@@ -100,3 +100,5 @@ G.idea/sonarlint/issuestore/5/e/5e10fb630ddacca3d6d93690dfb41c1918e76c00,b\f\bf
 Q.idea/sonarlint/securityhotspotstore/4/0/40aa9d355080d78cfaf7ae711853f55f2e3a8d68,9\2\924368d124973880fee3bf671e1a29a92db40ba8
 M
 src/FirstUniqueCharInStr.java,f\2\f2165781822057ea39c9404d328231159d221415
+A
+src/FizzBuzz.java,d\4\d46636e305c68b3627a6dba58efd4132a987fe7e
