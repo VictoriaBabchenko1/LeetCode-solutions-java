@@ -86,8 +86,12 @@ public class Main {
         System.out.println(Arrays.toString(new PlusOne().plusOne(nums3)));
         System.out.println(Arrays.toString(new PlusOne().plusOne(nums4)));
     }
+
+    public static void RotateImageTest(){
+        int[][] matrix = {{5, 1, 9, 11}, {2, 4, 8, 10}, {13, 3, 6, 7}, {15, 14, 12, 16}};
+        new RotateImage().rotate(matrix);
+    }
     public static void main(String[] args) {
-        System.out.println(new AddDigits().addDigits(10));
-        System.out.println(10 % 10);
+        RotateImageTest();
     }
 }
