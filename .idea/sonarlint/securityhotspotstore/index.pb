@@ -110,3 +110,5 @@ G
 src/FindDifference.java,a\9\a9dd84eda133d57fda6061e81a49e0d88b049f37
 D
 src/RotateImage.java,0\8\08bd983c879c8b39cefb2f301873639592459167
+L
+src/SortVowelsInAString.java,4\8\48af8bfcc34915cec84043640add68ac8e20f1d1
