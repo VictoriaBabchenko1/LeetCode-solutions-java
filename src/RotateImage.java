@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class RotateImage {
     public void rotate(int[][] matrix) {
         int l = matrix.length;
