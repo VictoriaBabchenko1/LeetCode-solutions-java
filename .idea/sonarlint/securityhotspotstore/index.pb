@@ -114,3 +114,5 @@ L
 src/SortVowelsInAString.java,4\8\48af8bfcc34915cec84043640add68ac8e20f1d1
 G
 src/IntegerToRoman.java,0\6\063a3ad13650a94acaa9711c5bf4dca3d41217aa
+_
+/src/FindIndicesWithIndexAndValueDifference.java,7\9\7965cc7e653be2356e07b1464586351dd9240025
