@@ -118,3 +118,5 @@ _
 /src/FindIndicesWithIndexAndValueDifference.java,7\9\7965cc7e653be2356e07b1464586351dd9240025
 O
 src/FindUniqueBinaryString.java,3\7\3713bd789f40087c2350081de58fdf69ab168ac1
+V
+&src/MinimizeMaximumPairSumInArray.java,3\7\3781937d3bfb0afd4235956bd6a07fb7e9bf0fb4
