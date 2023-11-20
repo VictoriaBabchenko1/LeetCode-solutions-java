@@ -122,3 +122,7 @@ V
 &src/MinimizeMaximumPairSumInArray.java,3\7\3781937d3bfb0afd4235956bd6a07fb7e9bf0fb4
 `
 0src/InsertGreatestCommonDivisorInLinkedList.java,4\f\4f30e57384d243fec960d4c7c9b932c4865f610e
+h
+8src/ReductionsOperationsToMakeTheArrayElementsEqual.java,b\2\b2b8d534ff6e0f826dbec5dc33ec50703b5e6184
+P
+ src/IntersectionOfTwoArrays.java,8\e\8e916c21ea95d54cb2a7ee07d1cbe5e21ae23b30
