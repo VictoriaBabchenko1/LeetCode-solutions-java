@@ -126,3 +126,7 @@ h
 8src/ReductionsOperationsToMakeTheArrayElementsEqual.java,b\2\b2b8d534ff6e0f826dbec5dc33ec50703b5e6184
 P
  src/IntersectionOfTwoArrays.java,8\e\8e916c21ea95d54cb2a7ee07d1cbe5e21ae23b30
+\
+,src/MinimumAmountOfTimeToCollectGarbage.java,c\2\c20a1729e13f12299ca30cea8076456504081ff9
+W
+'src/FindTheMaximumAchievableNumber.java,0\a\0a00d2f2f9e73f4206ddcc2da55e4388384dab42
