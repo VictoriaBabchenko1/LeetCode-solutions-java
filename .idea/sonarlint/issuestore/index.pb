@@ -130,3 +130,9 @@ P
 ,src/MinimumAmountOfTimeToCollectGarbage.java,c\2\c20a1729e13f12299ca30cea8076456504081ff9
 W
 'src/FindTheMaximumAchievableNumber.java,0\a\0a00d2f2f9e73f4206ddcc2da55e4388384dab42
+P
+ src/DeleteNodeInALinkedList.java,2\9\292acef2349ccf635255671cdd3f4d84c8a35bac
+A
+src/ListNode.java,7\f\7fb9f35bce4f1d1033a2c16c758c5f85012629bc
+N
+src/MiddleOfTheLinkedList.java,b\3\b39654ca19170e20ce054afd5e9a27d99af3e3bb
