@@ -136,3 +136,5 @@ A
 src/ListNode.java,7\f\7fb9f35bce4f1d1033a2c16c758c5f85012629bc
 N
 src/MiddleOfTheLinkedList.java,b\3\b39654ca19170e20ce054afd5e9a27d99af3e3bb
+I
+src/SwapNodesInPairs.java,b\7\b71ada3a6aef0d355d0856b0a5978e5d450ebe47
