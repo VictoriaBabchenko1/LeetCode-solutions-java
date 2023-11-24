@@ -138,3 +138,5 @@ N
 src/MiddleOfTheLinkedList.java,b\3\b39654ca19170e20ce054afd5e9a27d99af3e3bb
 I
 src/SwapNodesInPairs.java,b\7\b71ada3a6aef0d355d0856b0a5978e5d450ebe47
+Q
+!src/StriclyPalindromicNumber.java,2\1\21635a06184e51237f6764f703bc316fe55d62b2
