@@ -146,3 +146,5 @@ _
 /src/SumOfAbsoluteDifferencesInASortedArray.java,e\7\e770d9e404f4ff06072fbebe8dc7c43df5ea4fa3
 E
 src/SumMultiples.java,b\8\b8aac083db4acc4ea30789daa2b10a26b632c341
+M
+src/SmallestEvenMultiple.java,7\c\7c0ead8605d923229122e206449c6d3452580ec1
