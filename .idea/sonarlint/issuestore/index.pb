@@ -150,3 +150,5 @@ M
 src/SmallestEvenMultiple.java,7\c\7c0ead8605d923229122e206449c6d3452580ec1
 Q
 !src/MergeNodesInBetweenZeros.java,f\d\fd73b3449d8f1dff96341c3b6a08ed688b1bf652
+F
+src/NumberOf1Bits.java,9\6\967035e2ecc040adf78eca1427963f521ec6cb76
