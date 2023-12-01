@@ -152,3 +152,5 @@ Q
 !src/MergeNodesInBetweenZeros.java,f\d\fd73b3449d8f1dff96341c3b6a08ed688b1bf652
 F
 src/NumberOf1Bits.java,9\6\967035e2ecc040adf78eca1427963f521ec6cb76
+d
+4src/MinimumNumberOfStepsToMakeTwoStringsAnagram.java,7\e\7e52628b5d9f7e7f9bb60eade686c8c3a6e63d66
