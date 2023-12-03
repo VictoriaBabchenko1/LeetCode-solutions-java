@@ -156,3 +156,5 @@ d
 4src/MinimumNumberOfStepsToMakeTwoStringsAnagram.java,7\e\7e52628b5d9f7e7f9bb60eade686c8c3a6e63d66
 \
 ,src/CheckIfTwoStringArraysAreEquivalent.java,d\1\d1fdbf70d6f3bdd2fb84ee0d1972edb5a65a39c2
+Q
+!src/OptimalPartitionOfString.java,6\7\67e916d5203550e01afb17e102a8f41ea3b06079
