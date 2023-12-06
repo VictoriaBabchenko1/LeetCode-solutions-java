@@ -164,3 +164,5 @@ X
 (src/Largest3SameDigitNumberInString.java,d\1\d11ea193ef2adcd784dd7be57c4cd22fabcb1c52
 S
 #src/CountOfMatchesInTournament.java,f\e\fed6df4a2f47ec2724b0400a7982ac04965e2a87
+^
+.src/CountEqualAndDivisiblePairsInTheArray.java,d\8\d86c43fd418226f479700857f63c0b06b758e742
