@@ -166,3 +166,5 @@ S
 #src/CountOfMatchesInTournament.java,f\e\fed6df4a2f47ec2724b0400a7982ac04965e2a87
 ^
 .src/CountEqualAndDivisiblePairsInTheArray.java,d\8\d86c43fd418226f479700857f63c0b06b758e742
+U
+%src/CalculateMoneyInLeetcodeBank.java,0\4\04530f8d42101a59983bbe607a86493708b6b9c7
