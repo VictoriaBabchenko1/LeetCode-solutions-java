@@ -170,3 +170,5 @@ U
 %src/CalculateMoneyInLeetcodeBank.java,0\4\04530f8d42101a59983bbe607a86493708b6b9c7
 Q
 !src/LargestOddNumberInString.java,a\b\abab4f37148e808b6ea418f2296073c4542a6d72
+L
+src/ArithmeticSubarrays.java,b\9\b94524b00c2e5ef4ede007ac8452cbdd8d942a88
