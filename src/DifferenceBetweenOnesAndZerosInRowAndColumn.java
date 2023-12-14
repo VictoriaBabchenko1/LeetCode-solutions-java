@@ -1,32 +1,21 @@
 public class DifferenceBetweenOnesAndZerosInRowAndColumn {
     public int[][] onesMinusZeros(int[][] grid) {
-        int[][] result = new int[grid.length][grid[0].length];
-        for(int i = 0; i < grid.length; i++){
-            for(int j = 0; j < grid[0].length; j++){
-                result[i][j] = diff(i, j, grid);
+        int[] rowOnes = new int[grid.length];
+        int[] colOnes = new int[grid[0].length];
+
+        for(int i = 0; i < grid.length; i++) {
+            for(int j = 0; j < grid[0].length; j++) {
+                rowOnes[i] += grid[i][j];
+                colOnes[j] += grid[i][j];
             }
         }
-        return result;
-    }
 
-    private int countOnesInRow(int[][] grid, int i){
-        int count = 0;
-        for(int k = 0; k < grid[0].length; k++){
-            count += grid[i][k];
+        for(int i = 0; i < grid.length; i++) {
+            for(int j = 0; j < grid[0].length; j++) {
+                grid[i][j] = 2 * (rowOnes[i] + colOnes[j]) - grid.length - grid[0].length;
+            }
         }
-        return count;
-    }
 
-    private int countOnesInCol(int[][] grid, int j){
-        int count = 0;
-        for(int k = 0; k < grid.length; k++){
-            count += grid[k][j];
-        }
-        return count;
-    }
-
-    private int diff(int i, int j, int[][] grid){
-        return countOnesInRow(grid, i) + countOnesInCol(grid, j) -
-                (grid[0].length - countOnesInRow(grid, i)) - (grid.length - countOnesInCol(grid, j));
+        return grid;
     }
 }
