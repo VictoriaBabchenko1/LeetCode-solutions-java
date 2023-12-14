@@ -1,4 +1,4 @@
-public class DifferenceBeweenOnesAndZerosInRowAndColumn {
+public class DifferenceBetweenOnesAndZerosInRowAndColumn {
     public int[][] onesMinusZeros(int[][] grid) {
         int[][] result = new int[grid.length][grid[0].length];
         for(int i = 0; i < grid.length; i++){
@@ -12,9 +12,7 @@ public class DifferenceBeweenOnesAndZerosInRowAndColumn {
     private int countOnesInRow(int[][] grid, int i){
         int count = 0;
         for(int k = 0; k < grid[0].length; k++){
-            if(grid[i][k] == 1){
-                count++;
-            }
+            count += grid[i][k];
         }
         return count;
     }
@@ -22,9 +20,7 @@ public class DifferenceBeweenOnesAndZerosInRowAndColumn {
     private int countOnesInCol(int[][] grid, int j){
         int count = 0;
         for(int k = 0; k < grid.length; k++){
-            if(grid[k][j] == 1){
-                count++;
-            }
+            count += grid[k][j];
         }
         return count;
     }
