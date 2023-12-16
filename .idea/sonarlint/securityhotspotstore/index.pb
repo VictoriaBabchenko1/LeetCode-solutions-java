@@ -192,3 +192,5 @@ P
  src/MedianOfTwoSortedArrays.java,e\3\e333200f31e9be4cb660ebd568f7a2f5cb5edd85
 d
 4src/DifferenceBetweenOnesAndZerosInRowAndColumn.java,c\3\c3f485c6a459e0288af45f86318ffa9e4e4be1e4
+G
+src/ReducingDishes.java,2\6\26e7f1e546c21ad46508c075ffeb2b4c630c4db3
