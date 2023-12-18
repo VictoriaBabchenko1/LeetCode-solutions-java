@@ -22,5 +22,22 @@ public class AddTwoNumbers {
             l2 = l2.next;
         }
         return res.next;
+
+
+//       ListNode res = new ListNode();
+//        ListNode curRes = res;
+//        while (l1 != null && l2 != null){
+//            if(l1.val + l2.val >= 10){
+//                l1.next.val += (l1.val + l2.val) / 10;
+//                curRes.next = new ListNode((l1.val + l2.val) % 10);
+//            }
+//            else{
+//                curRes.next = new ListNode(l1.val + l2.val);
+//            }
+//            curRes = curRes.next;
+//            l1 = l1.next;
+//            l2 = l2.next;
+//        }
+//        return res.next;
     }
 }
