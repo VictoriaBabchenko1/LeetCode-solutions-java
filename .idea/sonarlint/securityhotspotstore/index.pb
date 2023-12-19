@@ -198,3 +198,5 @@ A
 src/SameTree.java,7\2\728d1872d14c56b3b2036e64cac4548961fe95d8
 F
 src/AddTwoNumbers.java,4\7\47e4d7c4f268bc2dc31135de1fac002391c7224d
+`
+0src/MaximumProductDifferenceBetweenTwoPairs.java,0\c\0c0c0d05fe2dc630601e41ea9daea5d66b8ad4bc
