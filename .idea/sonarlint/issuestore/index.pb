@@ -204,3 +204,5 @@ R
 "src/SearchInABinarySearchTree.java,3\4\34863fe62d7c19e6a8091b1054ed5f5a22fca8d5
 I
 src/BuyTwoChocolates.java,b\f\bf8258e5c12db3916b9dbe004c666d6c7d8c4ab8
+T
+$src/InsertIntoABinarySearchTree.java,e\6\e6c1c4d34fe37ef6e6abacb152b0d916079a6076
