@@ -170,3 +170,5 @@ K
 src/solutions/SameTree.java,f\7\f7e0d11af72d7c84283e359e84ab31264f1054f3
 [
 +src/solutions/MaximumDepthOfBinaryTree.java,9\0\903f0b4698b2c9377fcafe5f5bda0d10c01d4646
+g
+7src/solutions/ConvertSortedArrayToBinarySearchTree.java,a\8\a84464aa058071994a375d2d855ab1ddbab59480
