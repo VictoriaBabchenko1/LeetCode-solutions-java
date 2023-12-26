@@ -8,16 +8,13 @@ public class CountGoodNodesInBinaryTree {
     }
 
     private void traversal(TreeNode root, int max){
-        if(root == null){
-            return;
+        if(root != null){
+            if(root.val >= max){
+                max = root.val;
+                count++;
+            }
+            traversal(root.left, max);
+            traversal(root.right, max);
         }
-
-        if(root.val >= max){
-            max = root.val;
-            count++;
-        }
-
-        traversal(root.left, max);
-        traversal(root.right, max);
     }
 }
