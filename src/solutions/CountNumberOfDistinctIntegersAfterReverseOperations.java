@@ -4,19 +4,20 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class CountNumberOfDistinctIntegersAfterReverseOperations {
-    private int reverse(int num){
-        int rev = 0;
-        while (num != 0){
-            rev = rev * 10 + (num % 10);
-            num /= 10;
-        }
-        return num;
+    int rev;
+    private void reverse(int num){
+        if(num == 0) return;
+
+        rev = rev * 10 + (num % 10);
+        reverse(num / 10);
     }
     public int countDistinctIntegers(int[] nums) {
         Set<Integer> distinctNums = new HashSet<>();
         for(int num : nums){
             distinctNums.add(num);
-            distinctNums.add(reverse(num));
+            rev = 0;
+            reverse(num);
+            distinctNums.add(rev);
         }
         return distinctNums.size();
     }
