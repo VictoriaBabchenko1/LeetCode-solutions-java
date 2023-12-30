@@ -178,3 +178,5 @@ a
 -src/solutions/CountGoodNodesInBinaryTree.java,3\e\3e8087fc880e56d1c89f1c9557d79ed7d7e8e5b8
 Q
 !src/solutions/AddTwoIntegers.java,5\0\50e972983918e48d8fbdc14f7ddb85819abf8129
+v
+Fsrc/solutions/CountNumberOfDistinctIntegersAfterReverseOperations.java,0\2\02a82b80276442c8da734e913d57cd14d6f0102e
