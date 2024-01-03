@@ -186,3 +186,5 @@ l
 <src/solutions/LargestSubstringBetweenTwoEqualCharacters.java,e\0\e0550d63bdcc0be38314398c22af77f86afa1bbb
 W
 'src/solutions/LinkedListRandomNode.java,5\8\5853bc3fca640b99355d5efb5dd98a27fb01c763
+k
+;src/solutions/ConvertAnArrayIntoA2DArrayWithConditions.java,f\1\f12489294116540e7a0540d5e92740561a47cd0d
