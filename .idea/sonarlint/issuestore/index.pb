@@ -188,3 +188,5 @@ W
 'src/solutions/LinkedListRandomNode.java,5\8\5853bc3fca640b99355d5efb5dd98a27fb01c763
 k
 ;src/solutions/ConvertAnArrayIntoA2DArrayWithConditions.java,f\1\f12489294116540e7a0540d5e92740561a47cd0d
+N
+src/solutions/ToLowerCase.java,f\f\ff8dac9e325751fe8e0b0d783763e59dbbcafba1
