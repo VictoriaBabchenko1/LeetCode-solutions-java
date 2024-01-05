@@ -1,0 +1,31 @@
+
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş€¶î
+E	java:S106
+"+Replace this use of System.out by a logger.(çƒ³÷úÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(’È­›
+@	java:S106"+Replace this use of System.out by a logger.(€ÒÜ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÿúÖıÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ÕÒÅ
+E	java:S106"+Replace this use of System.out by a logger.( Ô©…üÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(°ıÚä
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÍÙ¤ÿÿÿÿÿ
+@	java:S106""+Replace this use of System.out by a logger.(š»·¨
+E	java:S106#"+Replace this use of System.out by a logger.(ÁÔÀúÿÿÿÿ
+@	java:S106$"+Replace this use of System.out by a logger.(É‚†œ
+h	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¸¯Úıÿÿÿÿ
+@	java:S106,"+Replace this use of System.out by a logger.(Œó°
+@	java:S106-"+Replace this use of System.out by a logger.(¹¤Ç½
+E	java:S106."+Replace this use of System.out by a logger.(…Í‡òøÿÿÿÿ
+c	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾–òÚ
+E	java:S106>"+Replace this use of System.out by a logger.(õØÛüÿÿÿÿ
+h	java:S100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÚ˜–üÿÿÿÿ
+E	java:S106G"+Replace this use of System.out by a logger.(”Ëü¨şÿÿÿÿ
+@	java:S106H"+Replace this use of System.out by a logger.(ÓŠƒØ
+E	java:S106I"+Replace this use of System.out by a logger.(”Š«×ùÿÿÿÿ
+@	java:S106V"+Replace this use of System.out by a logger.(šÅ²æ
+E	java:S106W"+Replace this use of System.out by a logger.(…™Ô–şÿÿÿÿ
+E	java:S106X"+Replace this use of System.out by a logger.(œşøúÿÿÿÿ
+@	java:S106Y"+Replace this use of System.out by a logger.(«ûä‹
+h	java:S100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»³›Ôûÿÿÿÿ
+h	java:S100a"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íŞ®Éÿÿÿÿÿ
+E	java:S106l"+Replace this use of System.out by a logger.(õØÛüÿÿÿÿ
