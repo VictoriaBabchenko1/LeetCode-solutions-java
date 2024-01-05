@@ -190,3 +190,5 @@ k
 ;src/solutions/ConvertAnArrayIntoA2DArrayWithConditions.java,f\1\f12489294116540e7a0540d5e92740561a47cd0d
 N
 src/solutions/ToLowerCase.java,f\f\ff8dac9e325751fe8e0b0d783763e59dbbcafba1
+c
+3src/solutions/DeleteTheMiddleNodeOfALinkedList.java,3\b\3bb000d7009de9a57954b6baa2da59020a69bf6f
