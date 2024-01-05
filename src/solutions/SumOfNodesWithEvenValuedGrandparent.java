@@ -3,13 +3,8 @@ package solutions;
 public class SumOfNodesWithEvenValuedGrandparent {
     int sum = 0;
     public int sumEvenGrandparent(TreeNode root) {
-        sum(root);
-        return sum;
-    }
-
-    private void sum(TreeNode root){
         if(root == null){
-            return;
+            return sum;
         }
 
         if(root.val % 2 == 0){
@@ -27,7 +22,8 @@ public class SumOfNodesWithEvenValuedGrandparent {
             }
         }
 
-        sum(root.left);
-        sum(root.right);
+        sumEvenGrandparent(root.left);
+        sumEvenGrandparent(root.right);
+        return sum;
     }
 }
