@@ -522,3 +522,5 @@ G.idea/sonarlint/issuestore/5/7/57accf8b04064e2d41818e8938f08d4294d4a7a4,8\5\85
 Q.idea/sonarlint/securityhotspotstore/3/0/30205a209c6ce77c4cfc19a09e6f57c588b7fb88,6\7\67eaf978e530588b1f14f51aeca296c2b659e272
 f
 6src/solutions/SumOfNodesWithEvenValuedGrandparent.java,f\2\f280015458860e582a5da6e851fb4c6826bac5c9
+]
+-src/solutions/SwappingNodesInALinkedList.java,c\5\c5591686df8202721fb9a69ad00a5daabb3ee84a
