@@ -524,3 +524,5 @@ f
 6src/solutions/SumOfNodesWithEvenValuedGrandparent.java,f\2\f280015458860e582a5da6e851fb4c6826bac5c9
 ]
 -src/solutions/SwappingNodesInALinkedList.java,c\5\c5591686df8202721fb9a69ad00a5daabb3ee84a
+\
+,src/solutions/RemoveNodesFromLinkedList.java,3\1\31982fd86d4f0975d1afd095b3869c0cce4d2773
