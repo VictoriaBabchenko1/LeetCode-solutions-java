@@ -528,3 +528,5 @@ f
 ,src/solutions/RemoveNodesFromLinkedList.java,3\1\31982fd86d4f0975d1afd095b3869c0cce4d2773
 P
  src/solutions/RangeSumOfBST.java,6\5\65c886c1835e090478722b803a5a5c2ddec22479
+S
+#src/solutions/LeafSimilarTrees.java,2\8\28fea93bd60c7e32b817a76022162c3817b7813b
