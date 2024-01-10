@@ -7,19 +7,15 @@ import java.util.Map;
 
 public class SumOfUniqueElements {
     public int sumOfUnique(int[] nums) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-
-        for(Integer num : nums){
-            map.put(num, map.getOrDefault(num, 0) + 1);
+        int[] freq = new int[101];
+        int count=0;
+        for(int i=0; i<nums.length; i++)
+            freq[nums[i]]++;
+        for(int i=0; i<nums.length; i++)
+        {
+            if(freq[nums[i]]==1)
+                count+=nums[i];
         }
-
-        int sum = 0;
-        for(Map.Entry entry : map.entrySet()){
-            if(entry.getValue().equals(1)){
-                sum += (int)entry.getKey();
-            }
-        }
-
-        return sum;
+        return count;
     }
 }
