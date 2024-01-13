@@ -534,3 +534,5 @@ V
 &src/solutions/SumOfUniqueElements.java,9\a\9a68cd6f209df638fc34d5c55651e4bea2b268b6
 [
 +src/solutions/ReverseWordsInAStringIII.java,0\b\0b80035f73f1b9036079df85de6b472655e524a7
+b
+2src/solutions/DetermineIfStringHalvesAreAlike.java,f\3\f3d41e4ea2897b61c02463434d21f0bbccb72fbe
