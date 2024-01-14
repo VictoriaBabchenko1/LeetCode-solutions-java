@@ -536,3 +536,5 @@ V
 +src/solutions/ReverseWordsInAStringIII.java,0\b\0b80035f73f1b9036079df85de6b472655e524a7
 b
 2src/solutions/DetermineIfStringHalvesAreAlike.java,f\3\f3d41e4ea2897b61c02463434d21f0bbccb72fbe
+T
+$src/solutions/NumberOfGoodPairs.java,2\0\208ff39baf2cad6b26b0f023f6230a5c0a9737dc
