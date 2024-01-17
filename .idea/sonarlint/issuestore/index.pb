@@ -542,3 +542,5 @@ $src/solutions/NumberOfGoodPairs.java,2\0\208ff39baf2cad6b26b0f023f6230a5c0a973
 .src/solutions/ANumberAfterADoubleReversal.java,7\4\74d50779ebd715cf0121445d9d4e2dd434cc2830
 Y
 )src/solutions/LexicographicalNumbers.java,5\b\5bb6622ff4024d5d2cd8a58130861b45333f8207
+Z
+*src/solutions/InsertDeleteGetRandomO1.java,f\0\f0b5ee81bd429a370befbbaccc4d01538bc40777
