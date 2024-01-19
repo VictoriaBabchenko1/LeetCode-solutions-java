@@ -548,3 +548,5 @@ Z
 ,src/solutions/UniqueNumberOfOccurrences.java,e\5\e50ea788e5e45bb58e1cb5197ca3dd3bfda34172
 Q
 !src/solutions/ClimbingStairs.java,b\d\bd9469321f7dafe47ff1870f2fb820ca2af2a871
+Z
+*src/solutions/CountItemsMatchingARule.java,6\6\66a38f6333f0d8b9cb87700471bb16491d8e2d8a
