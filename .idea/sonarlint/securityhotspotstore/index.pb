@@ -554,3 +554,5 @@ Z
 *src/solutions/MergeStringsAlternately.java,f\0\f0d36203fa4064da887c7def2244000255f74fa7
 R
 "src/solutions/Maximum69Number.java,8\4\84653909a5df8e4960c4aac0c8dbdded0f191fa3
+n
+>src/solutions/SubtractTheProductAndSumOfDigitsOfAnInteger.java,d\b\db57192389deec762ded27889f09018e481e6450
