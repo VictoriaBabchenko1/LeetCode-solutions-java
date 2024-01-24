@@ -558,3 +558,5 @@ n
 >src/solutions/SubtractTheProductAndSumOfDigitsOfAnInteger.java,d\b\db57192389deec762ded27889f09018e481e6450
 \
 ,src/solutions/MaximumXorAfterOperations.java,1\9\19a5f6296661f44f86a05c71a14ed24ccc1bf431
+R
+"src/solutions/BinaryTreePaths.java,1\7\174cb4a6c7e2c79ece2c95f2e1f7bb35ffb0dc8b
