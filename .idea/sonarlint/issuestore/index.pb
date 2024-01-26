@@ -562,3 +562,7 @@ R
 "src/solutions/BinaryTreePaths.java,1\7\174cb4a6c7e2c79ece2c95f2e1f7bb35ffb0dc8b
 R
 "src/solutions/SingleNumberIII.java,6\e\6ea75dfa33e5ab9b5f193bf468d4967df731273a
+^
+.src/solutions/BinaryTreePreorderTreversal.java,3\5\351b6688c8cc5e09bef17432ca79a4fb74fe48c7
+^
+.src/solutions/BinaryTreePreorderTraversal.java,1\3\133f9f0d2fdfa0d1998fd35276f4cc6c0e8183f3
