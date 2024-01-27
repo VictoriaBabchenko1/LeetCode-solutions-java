@@ -563,6 +563,10 @@ R
 R
 "src/solutions/SingleNumberIII.java,6\e\6ea75dfa33e5ab9b5f193bf468d4967df731273a
 ^
-.src/solutions/BinaryTreePreorderTreversal.java,3\5\351b6688c8cc5e09bef17432ca79a4fb74fe48c7
-^
 .src/solutions/BinaryTreePreorderTraversal.java,1\3\133f9f0d2fdfa0d1998fd35276f4cc6c0e8183f3
+_
+/src/solutions/BinaryTreePostorderTravetsal.java,2\8\28ed9a69a411b3793b231ec555974298bc12ce9d
+_
+/src/solutions/BinaryTreePostorderTravetsel.java,e\7\e74dec90c3ac21dc8ec9e14da4e37f1248a4a2d2
+_
+/src/solutions/BinaryTreePostorderTraversal.java,4\a\4a85a6b7639bd178cb865d4240a02be7fc32c5ad
