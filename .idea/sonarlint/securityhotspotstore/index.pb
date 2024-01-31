@@ -572,3 +572,5 @@ R
 ,src/solutions/ImplementQueueUsingStacks.java,8\3\8323959e637d734ade28d6386e9f5da255a8e00a
 d
 4src/solutions/CountElementsWithMaximumFrequency.java,7\5\75d875cc24e3c05229a454f49dc211c3d94a678f
+T
+$src/solutions/DailyTemperatures.java,e\1\e13c1a5f8d0691dea264f0b4e201e26c38d2a579
