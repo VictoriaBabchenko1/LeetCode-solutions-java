@@ -578,3 +578,5 @@ c
 3src/solutions/NumberOfEmployeesWhoMetTheTarget.java,2\c\2c0b16c292a8d294efbb8fcfad20999a3f788226
 S
 #src/solutions/SequentialDigits.java,7\d\7d534521c7f758c898527eaf286582c3289b3ece
+a
+1src/solutions/RemoveTrailingZerosFromAString.java,9\9\99fbc23016a366fde0090612fb1cf7d3896112b9
