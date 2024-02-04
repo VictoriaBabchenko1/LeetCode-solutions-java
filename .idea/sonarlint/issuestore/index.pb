@@ -580,3 +580,5 @@ S
 #src/solutions/SequentialDigits.java,7\d\7d534521c7f758c898527eaf286582c3289b3ece
 a
 1src/solutions/RemoveTrailingZerosFromAString.java,9\9\99fbc23016a366fde0090612fb1cf7d3896112b9
+`
+0src/solutions/SumOfSquaresOfSpecialElements.java,9\7\971f84fe5486dc8fa05eb4f7190df6710ec01a96
