@@ -582,3 +582,5 @@ a
 1src/solutions/RemoveTrailingZerosFromAString.java,9\9\99fbc23016a366fde0090612fb1cf7d3896112b9
 `
 0src/solutions/SumOfSquaresOfSpecialElements.java,9\7\971f84fe5486dc8fa05eb4f7190df6710ec01a96
+_
+/src/solutions/FirstUniqueCharacterInString.java,9\0\90c950ef2b8f2f1429368947ce013bafaffa5578
