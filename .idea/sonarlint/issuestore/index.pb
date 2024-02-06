@@ -584,3 +584,5 @@ a
 0src/solutions/SumOfSquaresOfSpecialElements.java,9\7\971f84fe5486dc8fa05eb4f7190df6710ec01a96
 _
 /src/solutions/FirstUniqueCharacterInString.java,9\0\90c950ef2b8f2f1429368947ce013bafaffa5578
+Z
+*src/solutions/SplitStringsBySeparator.java,f\3\f3bb18985d8ed8f9f266a767cb39bf2156492c48
