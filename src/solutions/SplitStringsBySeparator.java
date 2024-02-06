@@ -8,11 +8,19 @@ public class SplitStringsBySeparator {
         List<String> result = new ArrayList<>();
 
         for(String word : words) {
-            String[] separated = word.split("\\Q" + separator + "\\E");
-            for(String splitWord : separated){
-                if (!splitWord.isEmpty()) {
-                    result.add(splitWord);
+            StringBuilder separatedWord = new StringBuilder();
+            for(int i = 0; i < word.length(); i++){
+
+                if(word.charAt(i) != separator){
+                    separatedWord.append(word.charAt(i));
                 }
+                else if (!separatedWord.isEmpty()) {
+                    result.add(separatedWord.toString());
+                    separatedWord = new StringBuilder();
+                }
+            }
+            if (!separatedWord.isEmpty()) {
+                result.add(separatedWord.toString());
             }
         }
 
