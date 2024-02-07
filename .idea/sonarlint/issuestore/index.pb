@@ -586,3 +586,5 @@ _
 /src/solutions/FirstUniqueCharacterInString.java,9\0\90c950ef2b8f2f1429368947ce013bafaffa5578
 Z
 *src/solutions/SplitStringsBySeparator.java,f\3\f3bb18985d8ed8f9f266a767cb39bf2156492c48
+\
+,src/solutions/SortCharactersByFrequency.java,4\3\43a5d55589c89c516a6eecc714045004c5f84e01
