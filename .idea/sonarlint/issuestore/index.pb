@@ -588,7 +588,9 @@ Z
 *src/solutions/SplitStringsBySeparator.java,f\3\f3bb18985d8ed8f9f266a767cb39bf2156492c48
 \
 ,src/solutions/SortCharactersByFrequency.java,4\3\43a5d55589c89c516a6eecc714045004c5f84e01
-U
-%src/solutions/db/DuplicateEmails.java,4\c\4ccd0254f2fe2aac7719ba1e49261dfd495c746b
 T
 $src/solutions/db/DuplicateEmails.sql,2\4\24982acb078a97fa55862143612aa2d9e22efc17
+Q
+!src/solutions/db/CombineTwoTables,5\c\5ca1bf0763b82a06cc03b56652ccdee686d4613c
+U
+%src/solutions/db/CombineTwoTables.sql,d\1\d1e2749d0061c788e710b792f94400eb2b5f33cb
