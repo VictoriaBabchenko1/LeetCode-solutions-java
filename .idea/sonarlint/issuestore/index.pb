@@ -590,7 +590,9 @@ Z
 ,src/solutions/SortCharactersByFrequency.java,4\3\43a5d55589c89c516a6eecc714045004c5f84e01
 T
 $src/solutions/db/DuplicateEmails.sql,2\4\24982acb078a97fa55862143612aa2d9e22efc17
-Q
-!src/solutions/db/CombineTwoTables,5\c\5ca1bf0763b82a06cc03b56652ccdee686d4613c
 U
 %src/solutions/db/CombineTwoTables.sql,d\1\d1e2749d0061c788e710b792f94400eb2b5f33cb
+K
+src/solutions/db/SwapSalary,5\f\5f161c1ae08066491c14e8be44a8487c5148492e
+O
+src/solutions/db/SwapSalary.sql,d\6\d6911fc1011aa28fbf30094d833fb2169680a9b7
