@@ -592,7 +592,13 @@ T
 $src/solutions/db/DuplicateEmails.sql,2\4\24982acb078a97fa55862143612aa2d9e22efc17
 U
 %src/solutions/db/CombineTwoTables.sql,d\1\d1e2749d0061c788e710b792f94400eb2b5f33cb
-K
-src/solutions/db/SwapSalary,5\f\5f161c1ae08066491c14e8be44a8487c5148492e
 O
 src/solutions/db/SwapSalary.sql,d\6\d6911fc1011aa28fbf30094d833fb2169680a9b7
+k
+;src/solutions/db/EmployeesEarningmoreThanThairManagers.java,b\5\b52ae88b76bb1de46c7eabd7dcbbc092c019a973
+j
+:src/solutions/db/EmployeesEarningmoreThanThairManagers.sql,e\0\e06dc8189f93e01d17c8d8ba94ae8e84e6cdbfe5
+V
+&src/solutions/db/ProductSalesAnalysisI,b\7\b748bc01485688621f0f1efd21855f1dbcfb7066
+Z
+*src/solutions/db/ProductSalesAnalysisI.sql,c\6\c64cdf78051bc1e1561bb074e8161da321793363
