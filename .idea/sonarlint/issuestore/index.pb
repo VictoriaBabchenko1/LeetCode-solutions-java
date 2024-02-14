@@ -600,3 +600,5 @@ n
 >src/solutions/db/ReplaceEmployeeIDWithThreUniqueIdentifier.sql,3\d\3df73771489971634e2ccecfc48aa7ceeb0c57e9
 g
 7src/solutions/FindFirstPalindromicStringInTheArray.java,e\b\ebbf17e08203c2b4d22d6c38fa2da6573eb525db
+_
+/src/solutions/RearrangeArrayElementsBySign.java,c\8\c898c0dc43aea2297ce01f2711cb5ff9b59a3192
