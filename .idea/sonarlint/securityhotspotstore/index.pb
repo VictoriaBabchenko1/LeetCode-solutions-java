@@ -602,3 +602,7 @@ g
 7src/solutions/FindFirstPalindromicStringInTheArray.java,e\b\ebbf17e08203c2b4d22d6c38fa2da6573eb525db
 _
 /src/solutions/RearrangeArrayElementsBySign.java,c\8\c898c0dc43aea2297ce01f2711cb5ff9b59a3192
+U
+%src/solutions/db/TheLatestLoginIn2020,1\a\1a6dbb1e4bbfc51c80f4bca58009eb35dee6e58c
+Y
+)src/solutions/db/TheLatestLoginIn2020.sql,d\9\d976735e05bbe016b3de646c6807e80b73a2cc5b
