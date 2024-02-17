@@ -606,3 +606,5 @@ Y
 )src/solutions/db/TheLatestLoginIn2020.sql,d\9\d976735e05bbe016b3de646c6807e80b73a2cc5b
 `
 0src/solutions/db/RecyclableAndLowFatProducts.sql,0\e\0e268feaa150f455906fe1d659f20ee2a2cb7d09
+n
+>src/solutions/db/NumberOfUniqueSubjectsTaughtByEachTeacher.sql,1\e\1eb5d729c2cc86b2b4963bb7409563820f7a3996
