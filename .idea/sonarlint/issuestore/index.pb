@@ -612,7 +612,9 @@ Q
 !src/solutions/db/InvalidTwits.sql,6\0\6072976b82a630917ad8c428fb4dcaff0cd6e9fe
 R
 "src/solutions/db/ArticleViewsI.sql,1\0\105d4469e42b6c8c99fbec978229c30af26ae96c
-a
-1src/solutions/db/PrimaryDepartmentForEachEmployee,b\6\b6cd1815ace3483de51e77ac1110217757daa08a
 e
 5src/solutions/db/PrimaryDepartmentForEachEmployee.sql,c\e\ce604e400412249b671884e6a24a43d9fc78113d
+Z
+*src/solutions/BitwiseANDofNumbersRnge.java,d\d\dd43774caf6331a0a21b4dbb34d14ff6853383eb
+[
++src/solutions/BitwiseANDofNumbersRange.java,b\a\bad3e77199031c43d203d9fe91cb5d97db21dee3
