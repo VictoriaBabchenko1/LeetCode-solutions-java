@@ -618,3 +618,5 @@ e
 +src/solutions/BitwiseANDofNumbersRange.java,b\a\bad3e77199031c43d203d9fe91cb5d97db21dee3
 R
 "src/solutions/db/EmployeeBonus.sql,1\d\1d3092df34c9909b71d60d2443fea9bd834112ef
+T
+$src/solutions/db/NotBoringMovies.sql,c\1\c181a34f3c900c43373c955dde2f4955f41ef5f6
