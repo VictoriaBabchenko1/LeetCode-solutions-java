@@ -622,3 +622,7 @@ T
 $src/solutions/db/NotBoringMovies.sql,c\1\c181a34f3c900c43373c955dde2f4955f41ef5f6
 Q
 !src/solutions/db/BigCountries.sql,4\7\479f592cd1673984a3336d093a5787077b0b02fc
+P
+ src/solutions/db/RanckScores.sql,a\9\a9ccf4aed218c2c23888e8f13df8b038ec4e6363
+O
+src/solutions/db/RankScores.sql,a\8\a8cb086da61791cfb2c61dd36a58eb1658fa400f
