@@ -628,3 +628,7 @@ e
 5src/solutions/db/FindTotalTimeSpentByEachEmployee.sql,4\4\4479c6229df8c56fe26b277f5bba0db4276d4150
 Z
 *src/solutions/db/CustomerWhoNeverOrder.sql,f\2\f26a51e7b092722479c4109cd3e335b46eccf624
+[
++src/solutions/db/DeleteDuplicateEmails.java,3\6\36f7f678a863292c1395ed009ca9b97cc058c68e
+Z
+*src/solutions/db/DeleteDuplicateEmails.sql,a\5\a5366ab28715831b484956a4ce5e82e89a9c6e62
