@@ -1211,8 +1211,6 @@ Q.idea/sonarlint/securityhotspotstore/4/4/4479c6229df8c56fe26b277f5bba0db4276d41
 w
 G.idea/sonarlint/issuestore/4/4/4479c6229df8c56fe26b277f5bba0db4276d4150,b\3\b307ab6688b5a60e228ad83797eea186616a6582
 Å
-Q.idea/sonarlint/securityhotspotstore/3/6/36f7f678a863292c1395ed009ca9b97cc058c68e,6\b\6b76769438720ed3f76635792081ca3e2225c9eb
-Å
 Q.idea/sonarlint/securityhotspotstore/a/5/a5366ab28715831b484956a4ce5e82e89a9c6e62,e\2\e24e2d7acca39d2e11311c05d7bc33dc2a16186c
 w
 G.idea/sonarlint/issuestore/f/2/f26a51e7b092722479c4109cd3e335b46eccf624,c\3\c3fd99ff017ee31b79e074c629eb4fa173953c5d
@@ -1462,7 +1460,7 @@ G.idea/sonarlint/issuestore/f/0/f0004309aca81df1b7de866c9ccaf1dc93ee2d43,5\4\54
 Q.idea/sonarlint/securityhotspotstore/0/e/0e268feaa150f455906fe1d659f20ee2a2cb7d09,7\2\729fe603ffa2b6a4f0bd1bcd46d582faec88637f
 w
 G.idea/sonarlint/issuestore/0/e/0e268feaa150f455906fe1d659f20ee2a2cb7d09,1\3\1371cbd5da805ee8d823dea11cca86d668f6b9fc
-W
-'src/solutions/db/GamePlayAnanalysis.sql,5\7\57462b10e31efb6cadce463804f37832ea414911
 U
 %src/solutions/db/GamePlayAnalysis.sql,d\2\d2b68b2531e6a80ffccf2a98bfbecc7a7785b9d9
+X
+(src/solutions/db/FindCustomerReferee.sql,7\7\77bf09a053a0fb2952f573c7b53442260d74f06d
