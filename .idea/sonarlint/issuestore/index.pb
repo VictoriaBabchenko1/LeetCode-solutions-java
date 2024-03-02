@@ -1464,3 +1464,5 @@ U
 %src/solutions/db/GamePlayAnalysis.sql,d\2\d2b68b2531e6a80ffccf2a98bfbecc7a7785b9d9
 X
 (src/solutions/db/FindCustomerReferee.sql,7\7\77bf09a053a0fb2952f573c7b53442260d74f06d
+X
+(src/solutions/SquaresOfASortedArray.java,0\1\0113259deca1079959547883898532f25ebe4b61
