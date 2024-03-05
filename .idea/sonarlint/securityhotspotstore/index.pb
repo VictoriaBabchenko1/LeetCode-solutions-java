@@ -1470,3 +1470,7 @@ T
 $src/solutions/db/CapitalGainLoss.sql,4\0\405555da8a666261cfca8211b3162d23783f00cd
 l
 <src/solutions/db/CustomerPlacingTheLargestNumberOfOrders.sql,6\1\61118477759d35c890d93eb7aa0c9556244be1b7
+b
+2src/solutions/db/CustimersWhoBoughtAllProducts.sql,9\1\91d5c2f4f5fa04b3b9333f548eb446ca09752b29
+b
+2src/solutions/db/CustomersWhoBoughtAllProducts.sql,1\3\13bff3f7fb1a56f5276004003d38d71cfa1cc33a
