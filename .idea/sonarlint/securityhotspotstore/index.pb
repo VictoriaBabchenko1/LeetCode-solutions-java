@@ -1478,3 +1478,5 @@ Y
 +src/solutions/db/RearrangeProductsTable.sql,d\3\d3169727530de15b9ffa780e1e80d53426305c23
 Q
 !src/solutions/FaultyKeyboard.java,4\2\428eef1759ce8391fec1587c6ecf93f76bcd662a
+u
+Esrc/solutions/db/ActorsAndDirectorsWhoCooperatedAtLeastThreeTimes.sql,9\2\92d261995012c551ecd13e18d7d60ef1f322903b
