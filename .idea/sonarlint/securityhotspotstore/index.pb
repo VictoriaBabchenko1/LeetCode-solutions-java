@@ -1482,3 +1482,5 @@ u
 Esrc/solutions/db/ActorsAndDirectorsWhoCooperatedAtLeastThreeTimes.sql,9\2\92d261995012c551ecd13e18d7d60ef1f322903b
 c
 3src/solutions/CheckIfAStringIsAnAcronymOfWords.java,b\7\b7f9bcbfe0e9349eb06d2897c731a9383e5438fe
+S
+#src/solutions/CustomSortString.java,5\1\51f37ad81845e518c08daa5a95dfacac51418891
