@@ -1484,3 +1484,5 @@ c
 3src/solutions/CheckIfAStringIsAnAcronymOfWords.java,b\7\b7f9bcbfe0e9349eb06d2897c731a9383e5438fe
 S
 #src/solutions/CustomSortString.java,5\1\51f37ad81845e518c08daa5a95dfacac51418891
+R
+"src/solutions/db/TopTravellers.sql,b\8\b80c6e65a961d7be21ce1ca7df2b4679d7a8a5db
