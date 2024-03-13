@@ -1486,3 +1486,5 @@ S
 #src/solutions/CustomSortString.java,5\1\51f37ad81845e518c08daa5a95dfacac51418891
 R
 "src/solutions/db/TopTravellers.sql,b\8\b80c6e65a961d7be21ce1ca7df2b4679d7a8a5db
+V
+&src/solutions/FindThePivotInteger.java,a\7\a7ae7ff5650c48b1c986a328985ef10d1cecc340
