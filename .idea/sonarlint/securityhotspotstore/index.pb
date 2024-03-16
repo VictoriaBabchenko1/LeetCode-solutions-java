@@ -1492,3 +1492,5 @@ V
 ,src/solutions/db/ReformatDepartmentTable.sql,8\e\8e232676b7598df0b127017e9e7a10608043b18b
 W
 'src/solutions/DefangingAnIPAddress.java,f\f\ffb5caefa7ff0f03dcfe2ac6f00029b0146bc315
+a
+1src/solutions/MaximumNumberOfWordsYouCanType.java,a\8\a8b5b369304d46bcd6f637a6c15a76e59c54841e
