@@ -1495,6 +1495,6 @@ W
 a
 1src/solutions/MaximumNumberOfWordsYouCanType.java,a\8\a8b5b369304d46bcd6f637a6c15a76e59c54841e
 a
-1src/solutions/MaximumSumWithExectlyKElements.java,2\2\2218bf6ca47dd34f1c0a29f3cd3748f385401780
-a
 1src/solutions/MaximumSumWithExactlyKElements.java,d\4\d4c266baa3318fe85d564ebb4f895dde75af7ed5
+P
+ src/solutions/SortThePeople.java,4\9\49d9400d1dad9fb118fbfa5c865c707b191d2635
