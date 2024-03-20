@@ -1500,3 +1500,7 @@ P
  src/solutions/SortThePeople.java,4\9\49d9400d1dad9fb118fbfa5c865c707b191d2635
 e
 5src/solutions/CountPairsWhoseSumIsLessThanTarget.java,3\7\3743638c954bfc9fd9953985df199098ecbe1c61
+W
+'src/solutions/MinimizeStringLenght.java,6\9\6912c3ad626937da3c88522bc497e0f260b4790a
+W
+'src/solutions/MinimizeStringLength.java,a\0\a031965d4436a1bf62dd2fe33c1d60891ec43c08
