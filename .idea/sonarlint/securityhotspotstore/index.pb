@@ -1502,7 +1502,9 @@ e
 5src/solutions/CountPairsWhoseSumIsLessThanTarget.java,3\7\3743638c954bfc9fd9953985df199098ecbe1c61
 W
 'src/solutions/MinimizeStringLength.java,a\0\a031965d4436a1bf62dd2fe33c1d60891ec43c08
-^
-.src/solutions/CellsWithOddValuesInAMatrix.java,b\b\bb26aa7ce41f604f010bdd86858ff0d0ae1399e5
 X
 (src/solutions/db/BiggestSingleNumber.sql,a\2\a25f7fa41120ac21fbae570316e3d04cdbf787c0
+Y
+)src/solutions/RowWithMaximumOnes/sql.java,9\8\9840d127c2063cbad8cbe29cf0ec5d78fa8eb7bf
+U
+%src/solutions/RowWithMaximumOnes.java,8\3\83fd0a49e44e39cae8fdbbc1d026b359d3a0e352
