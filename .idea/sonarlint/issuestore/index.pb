@@ -1512,3 +1512,5 @@ Y
 -src/solutions/FindAllDuplicatesInAnArray.java,2\d\2d05ec5456b978a73bbd2d6536d85bce7ebdb36d
 _
 /src/solutions/FindTheDifferenceOfTwoArrays.java,9\2\92ebcb1ebcc79d02e531760e8be296c3baeb007f
+U
+%src/solutions/SortingTheSentence.java,4\0\40d0009cc3fe55ca5a3371ce4aa480c8288014de
