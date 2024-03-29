@@ -1514,3 +1514,5 @@ _
 /src/solutions/FindTheDifferenceOfTwoArrays.java,9\2\92ebcb1ebcc79d02e531760e8be296c3baeb007f
 U
 %src/solutions/SortingTheSentence.java,4\0\40d0009cc3fe55ca5a3371ce4aa480c8288014de
+[
++src/solutions/NeitherMinimumNorMaximum.java,f\1\f181e8165aac42bea446a1112fdfa7d5c8b3ed22
