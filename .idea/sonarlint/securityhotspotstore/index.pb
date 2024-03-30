@@ -1516,3 +1516,5 @@ U
 %src/solutions/SortingTheSentence.java,4\0\40d0009cc3fe55ca5a3371ce4aa480c8288014de
 [
 +src/solutions/NeitherMinimumNorMaximum.java,f\1\f181e8165aac42bea446a1112fdfa7d5c8b3ed22
+Y
+)src/solutions/NumberOfSeniorCitizens.java,9\3\93be55521f2bc34142bd467b7f40dacc888c00e6
