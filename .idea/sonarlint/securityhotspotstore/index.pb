@@ -1518,3 +1518,5 @@ U
 +src/solutions/NeitherMinimumNorMaximum.java,f\1\f181e8165aac42bea446a1112fdfa7d5c8b3ed22
 Y
 )src/solutions/NumberOfSeniorCitizens.java,9\3\93be55521f2bc34142bd467b7f40dacc888c00e6
+Z
+*src/solutions/SeparateDigitsInAnArray.java,c\a\caf0cdecbd71ec67b68f849e324b792aa8615b11
