@@ -1520,3 +1520,5 @@ Y
 )src/solutions/NumberOfSeniorCitizens.java,9\3\93be55521f2bc34142bd467b7f40dacc888c00e6
 Z
 *src/solutions/SeparateDigitsInAnArray.java,c\a\caf0cdecbd71ec67b68f849e324b792aa8615b11
+_
+/src/solutions/FindWordsContainingCharacter.java,9\b\9bbd55248e3a3a4ad6fd51aa2b00de2d65b4fbfc
