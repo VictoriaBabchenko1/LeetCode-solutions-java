@@ -1522,3 +1522,5 @@ Z
 *src/solutions/SeparateDigitsInAnArray.java,c\a\caf0cdecbd71ec67b68f849e324b792aa8615b11
 _
 /src/solutions/FindWordsContainingCharacter.java,9\b\9bbd55248e3a3a4ad6fd51aa2b00de2d65b4fbfc
+e
+5src/solutions/FindCommonElementsBetweenTwoArrays.java,9\f\9f7dfa3bfc13a869285fec8bd82b36ef203e680f
