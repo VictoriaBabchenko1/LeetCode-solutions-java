@@ -1524,3 +1524,5 @@ _
 /src/solutions/FindWordsContainingCharacter.java,9\b\9bbd55248e3a3a4ad6fd51aa2b00de2d65b4fbfc
 e
 5src/solutions/FindCommonElementsBetweenTwoArrays.java,9\f\9f7dfa3bfc13a869285fec8bd82b36ef203e680f
+T
+$src/solutions/SortArrayByParity.java,7\e\7e0c4818981f351e994aad8e308eb34221197b9c
