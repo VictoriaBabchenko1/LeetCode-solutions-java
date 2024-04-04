@@ -1526,3 +1526,5 @@ e
 5src/solutions/FindCommonElementsBetweenTwoArrays.java,9\f\9f7dfa3bfc13a869285fec8bd82b36ef203e680f
 T
 $src/solutions/SortArrayByParity.java,7\e\7e0c4818981f351e994aad8e308eb34221197b9c
+d
+4src/solutions/db/EmployeesWithMissingInformation.sql,d\d\dd60e929f3ff94b690e0212053ab97a386e128f4
