@@ -1528,3 +1528,5 @@ T
 $src/solutions/SortArrayByParity.java,7\e\7e0c4818981f351e994aad8e308eb34221197b9c
 d
 4src/solutions/db/EmployeesWithMissingInformation.sql,d\d\dd60e929f3ff94b690e0212053ab97a386e128f4
+U
+%src/solutions/MakeTheStringGreat.java,8\c\8c21dd81eb6397f4286c5a99f0d18d52395443ad
