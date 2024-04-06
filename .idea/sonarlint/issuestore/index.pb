@@ -1530,3 +1530,9 @@ d
 4src/solutions/db/EmployeesWithMissingInformation.sql,d\d\dd60e929f3ff94b690e0212053ab97a386e128f4
 U
 %src/solutions/MakeTheStringGreat.java,8\c\8c21dd81eb6397f4286c5a99f0d18d52395443ad
+f
+6src/solutions/db/EmployeesEarningMoreThanThaitManagers,e\8\e8ddbabe5ef14516835f39c55a4cdc700ed6409c
+j
+:src/solutions/db/EmployeesEarningMoreThanThaitManagers.sql,d\7\d73ecf4aa206972e63a40509ef29007033680cc5
+i
+9src/solutions/db/EmployeesEarningMoreThanThatManagers.sql,4\6\46fbf041932de6910bf309b7210f56101c084dba
