@@ -1534,3 +1534,5 @@ i
 9src/solutions/db/EmployeesEarningMoreThanThatManagers.sql,4\6\46fbf041932de6910bf309b7210f56101c084dba
 V
 &src/solutions/db/RisingTemperature.sql,2\5\25fa15e4af5485ca73cba3d9ec85d40cd067695b
+]
+-src/solutions/db/ClassesMoreThan5Students.sql,2\2\22ad60775137c244f088ba2479d18a889fa3dffe
