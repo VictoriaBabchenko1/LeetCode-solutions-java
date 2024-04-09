@@ -1536,3 +1536,5 @@ V
 &src/solutions/db/RisingTemperature.sql,2\5\25fa15e4af5485ca73cba3d9ec85d40cd067695b
 ]
 -src/solutions/db/ClassesMoreThan5Students.sql,2\2\22ad60775137c244f088ba2479d18a889fa3dffe
+P
+ src/solutions/db/SalesPerson.sql,f\2\f24a0d1f2c266bb8d1e8f5ddedb461c4ed1431a9
