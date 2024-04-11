@@ -1538,3 +1538,5 @@ V
 -src/solutions/db/ClassesMoreThan5Students.sql,2\2\22ad60775137c244f088ba2479d18a889fa3dffe
 P
  src/solutions/db/SalesPerson.sql,f\2\f24a0d1f2c266bb8d1e8f5ddedb461c4ed1431a9
+V
+&src/solutions/db/TriangleJudgement.sql,f\c\fc299948761b9fe2ef3d88038b717d3c6fdf3333
