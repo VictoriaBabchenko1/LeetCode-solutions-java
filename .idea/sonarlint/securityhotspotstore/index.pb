@@ -1546,3 +1546,5 @@ Z
 *src/solutions/db/CalculateSpecialBonus.sql,6\6\661d0ca755297920b5e0083b146024ef6e961e6c
 Q
 !src/solutions/ScoreOfAString.java,7\b\7b28c2911bd08ce4bee4f6d7a3d0dc8e7fcac834
+R
+"src/solutions/IslandPerimeter.java,2\3\2374a88a0628df6d110d599c4e5df29581bc6428
