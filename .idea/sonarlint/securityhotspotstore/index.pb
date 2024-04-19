@@ -1548,3 +1548,5 @@ Q
 !src/solutions/ScoreOfAString.java,7\b\7b28c2911bd08ce4bee4f6d7a3d0dc8e7fcac834
 R
 "src/solutions/IslandPerimeter.java,2\3\2374a88a0628df6d110d599c4e5df29581bc6428
+T
+$src/solutions/DistributeCandies.java,8\3\8364b620243b9cd808d26849e26ee1b118d7fd63
