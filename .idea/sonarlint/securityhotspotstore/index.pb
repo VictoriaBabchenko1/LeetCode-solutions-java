@@ -1552,3 +1552,5 @@ T
 $src/solutions/DistributeCandies.java,8\3\8364b620243b9cd808d26849e26ee1b118d7fd63
 r
 Bsrc/solutions/LargestPositiveIntegerThatExistsWithItsNegative.java,d\a\da3f4f9e73bb54a14ac4fc835e046a45f489bd2f
+Y
+)src/solutions/db/BankAccountSummaryII.sql,1\9\19d5e387957b5fcfd09c3539a869e86b88983997
