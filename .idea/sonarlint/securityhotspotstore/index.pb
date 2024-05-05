@@ -1554,3 +1554,5 @@ r
 Bsrc/solutions/LargestPositiveIntegerThatExistsWithItsNegative.java,d\a\da3f4f9e73bb54a14ac4fc835e046a45f489bd2f
 Y
 )src/solutions/db/BankAccountSummaryII.sql,1\9\19d5e387957b5fcfd09c3539a869e86b88983997
+d
+4src/solutions/db/ListTheProductsOrderedInAPeriod.sql,b\8\b8791622d8370f260c1cef3346dad26c92a5a04f
