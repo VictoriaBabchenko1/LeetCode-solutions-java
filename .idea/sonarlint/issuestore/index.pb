@@ -1558,3 +1558,5 @@ d
 4src/solutions/db/ListTheProductsOrderedInAPeriod.sql,b\8\b8791622d8370f260c1cef3346dad26c92a5a04f
 k
 ;src/solutions/GreatestEnglishLetterInUpperAndLowerCase.java,f\8\f84411042f9c3b8441e9ad3a68d08abe313b72bc
+e
+5src/solutions/DetermineColourOfAChessboardSquare.java,2\6\260fa0a81a9591a11d935aec939470404b3a2e71
