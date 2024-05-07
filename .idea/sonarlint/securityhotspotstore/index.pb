@@ -1560,3 +1560,7 @@ k
 ;src/solutions/GreatestEnglishLetterInUpperAndLowerCase.java,f\8\f84411042f9c3b8441e9ad3a68d08abe313b72bc
 e
 5src/solutions/DetermineColourOfAChessboardSquare.java,2\6\260fa0a81a9591a11d935aec939470404b3a2e71
+V
+&src/solutions/db/FixNamesInATable.java,d\8\d852ca663c9ebc2830cb53f5b1ebd12f08671682
+U
+%src/solutions/db/FixNamesInATable.sql,0\5\05a450c048f26b1d62c0b2b17ffcabdb7f5ee52e
