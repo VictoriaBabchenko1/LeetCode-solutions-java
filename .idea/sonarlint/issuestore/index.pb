@@ -1564,3 +1564,7 @@ U
 %src/solutions/db/FixNamesInATable.sql,0\5\05a450c048f26b1d62c0b2b17ffcabdb7f5ee52e
 _
 /src/solutions/db/GroupSoldProductsByTheDate.sql,f\9\f9246181eba8319333685dd573a659432a94272c
+i
+9src/solutions/LongestContinuoesIncreasingSubsecuence.java,8\6\86c90d6b5602cdb570ac7747696003908b9ac99e
+i
+9src/solutions/LongestContinuousIncreasingSubsequence.java,2\4\24a4a666716630a12f27c3886a4929ca6fe55ec7
