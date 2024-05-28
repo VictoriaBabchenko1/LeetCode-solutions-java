@@ -1584,3 +1584,5 @@ b
 2src/solutions/db/UserActivityForThePast30DaysI.sql,e\1\e1ab6ee567b698abff4f998c46f4881733d798f1
 n
 >src/solutions/SpecialArrayWithXElementsGraterThanOrEqualX.java,9\a\9a6ed7f423e987c0332d3cf190f3dba941fdaefd
+_
+/src/solutions/DeleteGreatestValueInEachRow.java,a\c\ac6d557db2a9d23d071d879cda60face03246f14
