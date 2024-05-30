@@ -1586,3 +1586,5 @@ n
 >src/solutions/SpecialArrayWithXElementsGraterThanOrEqualX.java,9\a\9a6ed7f423e987c0332d3cf190f3dba941fdaefd
 _
 /src/solutions/DeleteGreatestValueInEachRow.java,a\c\ac6d557db2a9d23d071d879cda60face03246f14
+P
+ src/solutions/DetectCapital.java,2\9\295c4d4a47448eb26d0e1c22b1c110803206633b
