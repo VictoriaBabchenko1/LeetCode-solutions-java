@@ -1588,3 +1588,5 @@ _
 /src/solutions/DeleteGreatestValueInEachRow.java,a\c\ac6d557db2a9d23d071d879cda60face03246f14
 P
  src/solutions/DetectCapital.java,2\9\295c4d4a47448eb26d0e1c22b1c110803206633b
+Z
+*src/solutions/db/CountSalaryCategories.sql,9\1\91c4855a1d7417c93ae1d72fb9ce03d1f332700d
