@@ -1590,3 +1590,5 @@ P
  src/solutions/DetectCapital.java,2\9\295c4d4a47448eb26d0e1c22b1c110803206633b
 Z
 *src/solutions/db/CountSalaryCategories.sql,9\1\91c4855a1d7417c93ae1d72fb9ce03d1f332700d
+M
+src/solutions/RansomNote.java,c\3\c31ec731d696fccd4b46309bdad79e24fd523046
