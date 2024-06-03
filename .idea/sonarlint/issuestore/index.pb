@@ -1594,3 +1594,5 @@ M
 src/solutions/RansomNote.java,c\3\c31ec731d696fccd4b46309bdad79e24fd523046
 e
 5src/solutions/FindAllNumbersDisappearedInAnArray.java,8\d\8d739825f268e22f44bf37457f011838a4fc2fbd
+l
+<src/solutions/AppendCharactersToStringToMakeSubsequence.java,7\5\75d917f40983c4e9f7540b4d5910749952eea1c1
