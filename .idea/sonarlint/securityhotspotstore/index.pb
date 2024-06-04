@@ -1596,3 +1596,5 @@ e
 5src/solutions/FindAllNumbersDisappearedInAnArray.java,8\d\8d739825f268e22f44bf37457f011838a4fc2fbd
 l
 <src/solutions/AppendCharactersToStringToMakeSubsequence.java,7\5\75d917f40983c4e9f7540b4d5910749952eea1c1
+^
+.src/solutions/N_aryTreePostorderTraversal.java,e\1\e1bc905ddca7ef2a14375c1912b9cb1e3624d6a5
