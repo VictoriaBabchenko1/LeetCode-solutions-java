@@ -1598,3 +1598,5 @@ l
 <src/solutions/AppendCharactersToStringToMakeSubsequence.java,7\5\75d917f40983c4e9f7540b4d5910749952eea1c1
 ^
 .src/solutions/N_aryTreePostorderTraversal.java,e\1\e1bc905ddca7ef2a14375c1912b9cb1e3624d6a5
+`
+0src/solutions/db/QueriesQualityAndPercentage.sql,a\e\ae11a1447cc1aaf67ee7ab1c668bd59b0e9f7425
