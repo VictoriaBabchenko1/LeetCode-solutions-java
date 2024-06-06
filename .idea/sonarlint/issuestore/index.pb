@@ -1600,3 +1600,7 @@ l
 .src/solutions/N_aryTreePostorderTraversal.java,e\1\e1bc905ddca7ef2a14375c1912b9cb1e3624d6a5
 `
 0src/solutions/db/QueriesQualityAndPercentage.sql,a\e\ae11a1447cc1aaf67ee7ab1c668bd59b0e9f7425
+Z
+*src/solutions/db/DailyLeadsAnd artners.sql,e\5\e5c264bcba221c560ec52a21cf56c9c06863fe7f
+Z
+*src/solutions/db/DailyLeadsAndPartners.sql,2\2\226c0cb729b0a08527537a0f3cf008b71cdf9444
