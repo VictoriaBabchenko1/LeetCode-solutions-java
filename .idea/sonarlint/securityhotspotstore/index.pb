@@ -1604,3 +1604,5 @@ Z
 *src/solutions/db/DailyLeadsAndPartners.sql,2\2\226c0cb729b0a08527537a0f3cf008b71cdf9444
 R
 "src/solutions/db/ExchangeSeats.sql,5\1\5133ef13a553dd0e7fe47ee2d3cc79ab33738155
+W
+'src/solutions/db/FindFollowersCount.sql,d\4\d494d43261c26a41bee16e30872e7e8ccc7ca6d7
