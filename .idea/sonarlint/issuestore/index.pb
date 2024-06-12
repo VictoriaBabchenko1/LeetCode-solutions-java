@@ -1610,3 +1610,5 @@ P
  src/solutions/HeightChecker.java,5\8\58278f3a13485b2d5cff1d2279b6fc67bb38fd79
 T
 $src/solutions/RelativeSortArray.java,2\1\21fc57d92b7e3cf39da4d56297e29459cc66f982
+M
+src/solutions/SortColors.java,2\d\2d23c219dadb90502a683c4008f44b5797839956
