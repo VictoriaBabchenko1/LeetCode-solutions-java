@@ -1614,3 +1614,5 @@ M
 src/solutions/SortColors.java,2\d\2d23c219dadb90502a683c4008f44b5797839956
 e
 5src/solutions/MinimumNumberOfMovesToSeatEveryone.java,a\3\a36fa27c54bcc053c1c988c76bad1c733b3ad5ae
+d
+4src/solutions/MinimumIncrementToMakeArrayUnique.java,7\d\7d2711c670c30663898d7d896b8e0138dd07b347
