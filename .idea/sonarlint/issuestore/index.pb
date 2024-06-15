@@ -1616,3 +1616,5 @@ e
 5src/solutions/MinimumNumberOfMovesToSeatEveryone.java,a\3\a36fa27c54bcc053c1c988c76bad1c733b3ad5ae
 d
 4src/solutions/MinimumIncrementToMakeArrayUnique.java,7\d\7d2711c670c30663898d7d896b8e0138dd07b347
+f
+6src/solutions/MinimumNumberOfChairsInAWaitingRoom.java,1\4\140ef525dc3debf1b1ee92af7d41438693cf0e96
