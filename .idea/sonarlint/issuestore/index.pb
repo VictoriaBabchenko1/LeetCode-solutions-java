@@ -1618,3 +1618,5 @@ d
 4src/solutions/MinimumIncrementToMakeArrayUnique.java,7\d\7d2711c670c30663898d7d896b8e0138dd07b347
 f
 6src/solutions/MinimumNumberOfChairsInAWaitingRoom.java,1\4\140ef525dc3debf1b1ee92af7d41438693cf0e96
+X
+(src/solutions/RichestCustomerWealth.java,6\d\6dcc8010b607fbb3d751be89a9fee770526def32
