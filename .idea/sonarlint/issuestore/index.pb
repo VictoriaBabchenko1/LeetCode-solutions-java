@@ -1620,3 +1620,5 @@ f
 6src/solutions/MinimumNumberOfChairsInAWaitingRoom.java,1\4\140ef525dc3debf1b1ee92af7d41438693cf0e96
 X
 (src/solutions/RichestCustomerWealth.java,6\d\6dcc8010b607fbb3d751be89a9fee770526def32
+U
+%src/solutions/SumOfSquareNumbers.java,d\d\dded64fb0737d94a8da92f32e2762080ba750f1b
