@@ -1622,3 +1622,5 @@ X
 (src/solutions/RichestCustomerWealth.java,6\d\6dcc8010b607fbb3d751be89a9fee770526def32
 U
 %src/solutions/SumOfSquareNumbers.java,d\d\dded64fb0737d94a8da92f32e2762080ba750f1b
+s
+Csrc/solutions/db/CustomerWhoVisitedButDidNotMakeAnyTransactions.sql,9\1\91c8e344c130259cfe5bba754ff8f4e05f863ae6
