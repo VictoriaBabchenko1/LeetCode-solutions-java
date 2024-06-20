@@ -1624,3 +1624,5 @@ U
 %src/solutions/SumOfSquareNumbers.java,d\d\dded64fb0737d94a8da92f32e2762080ba750f1b
 s
 Csrc/solutions/db/CustomerWhoVisitedButDidNotMakeAnyTransactions.sql,9\1\91c8e344c130259cfe5bba754ff8f4e05f863ae6
+a
+1src/solutions/CheckIfAllAsAppearsBeforeAllBs.java,d\9\d96c4da06e0ca6e21e65d70944c5d0705ceb5a67
