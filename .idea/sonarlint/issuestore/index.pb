@@ -1626,3 +1626,5 @@ s
 Csrc/solutions/db/CustomerWhoVisitedButDidNotMakeAnyTransactions.sql,9\1\91c8e344c130259cfe5bba754ff8f4e05f863ae6
 a
 1src/solutions/CheckIfAllAsAppearsBeforeAllBs.java,d\9\d96c4da06e0ca6e21e65d70944c5d0705ceb5a67
+c
+3src/solutions/SumOfValuesAtIndicesWithKSetBits.java,0\7\07efa2c9e0da28a57597d16f902bd37bd1443e7b
