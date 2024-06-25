@@ -1634,3 +1634,5 @@ c
 3src/solutions/FindGreatestCommonDivisorOfArray.java,5\b\5bebde4f1db7aa7fd2c8b78132de83ae3e8d099d
 O
 src/solutions/PrintInOrder.java,c\e\cef4b24d26230d222f00064d437fa2397facce79
+b
+2src/solutions/KeepMultiplyingFoundValuesByTwo.java,6\0\60db85956b84d95532da3e9476370454312dcc94
