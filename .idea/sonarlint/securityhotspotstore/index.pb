@@ -1644,3 +1644,5 @@ Y
 .src/solutions/CellsInARangeOnAnExcelSheet.java,b\a\ba69bbd1e30c4479b7feafc218e02766c9882e6d
 T
 $src/solutions/ReverseLinkedList.java,1\2\123dbf05cba433c76f5f0b0551529854ef371ef6
+e
+5src/solutions/NumberOfStepsToReduceANumberToZero.java,4\9\49fc4ed525a851c5d2892396fb1ef91277272e54
