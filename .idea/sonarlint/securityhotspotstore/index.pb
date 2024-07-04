@@ -1650,3 +1650,5 @@ e
 ,src/solutions/IntersectionOfTwoArraysII.java,5\0\5097fdfedd6eb942b1d658449c3f1b9668ed3a48
 Y
 )src/solutions/ExcelSheetColumnNumber.java,d\c\dc5a433b7204f089fcca808af17e6098ad9532ae
+]
+-src/solutions/db/FindUsersWithValidEMails.sql,1\2\12416620dc02687f76c8eb9e235d668efbc9355c
