@@ -1652,3 +1652,5 @@ Y
 )src/solutions/ExcelSheetColumnNumber.java,d\c\dc5a433b7204f089fcca808af17e6098ad9532ae
 ]
 -src/solutions/db/FindUsersWithValidEMails.sql,1\2\12416620dc02687f76c8eb9e235d668efbc9355c
+\
+,src/solutions/db/DepartmentHighestSalary.sql,c\5\c540f87306934eb7b4298e37086ae0f862f81cd2
