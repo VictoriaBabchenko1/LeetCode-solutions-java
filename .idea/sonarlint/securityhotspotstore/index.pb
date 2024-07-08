@@ -1658,3 +1658,5 @@ P
  src/solutions/PassThePillow.java,3\2\32423510f086fb3f772988cc65cb9f1f089e1a7e
 O
 src/solutions/WaterBottles.java,e\b\ebfbb4d41245a05d9b9240a456821c4630b29452
+a
+1src/solutions/FindTheWinnerOfTheCircularGame.java,b\a\ba7cfb3cae7cfdb2c259ebdbe109eb76b2def602
