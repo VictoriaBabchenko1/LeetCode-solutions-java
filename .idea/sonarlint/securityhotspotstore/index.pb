@@ -1660,3 +1660,5 @@ O
 src/solutions/WaterBottles.java,e\b\ebfbb4d41245a05d9b9240a456821c4630b29452
 a
 1src/solutions/FindTheWinnerOfTheCircularGame.java,b\a\ba7cfb3cae7cfdb2c259ebdbe109eb76b2def602
+U
+%src/solutions/AverageWaitingTime.java,b\d\bdf5e49d9402c88e849c55bf2b25f856a3fade1f
