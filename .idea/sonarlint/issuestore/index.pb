@@ -1664,3 +1664,5 @@ U
 %src/solutions/AverageWaitingTime.java,b\d\bdf5e49d9402c88e849c55bf2b25f856a3fade1f
 S
 #src/solutions/CrawlerLogFolder.java,5\3\537894112c26b8ae6f53f0fb9bed644d0916bf9e
+c
+3src/solutions/db/AverageTimeOfProcessPerMachine.sql,3\f\3ff05ddaea331514f638040fe32528a37ab48a3c
